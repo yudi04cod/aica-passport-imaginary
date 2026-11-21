@@ -1,5 +1,9 @@
 # The Passport Page of a Country That Isn't There
 
+[![make.fun · the-passport-page-of-a-countr-2-20261121-0318](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/yudi04cod/aica-passport-imaginary/rank.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/yudi04cod/aica-passport-imaginary/reward.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+
 An entry for the [make.fun](https://make.fun) competition
 ["The Passport Page of a Country That Isn't There"](https://make.fun/c/the-passport-page-of-a-countr-2-20261121-0318)
 (`the-passport-page-of-a-countr-2-20261121-0318`).
